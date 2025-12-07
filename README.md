@@ -43,7 +43,7 @@ algorithms that is exists like lists, string, or others structures or algorithms
 	- `dotnet build`
 	- `dotnet run`
 
-#### VS Code (must have C# Dev Kit installed):
+#### VS Code (must have C# Dev Kit Extension installed):
 
 2. Open `VS Code` and open the folder `DataStructureToolkit`
 3. Open `Program.cs` in `DataStructureToolkitCLI`
