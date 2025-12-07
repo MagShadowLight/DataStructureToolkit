@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataStructureToolkitCLI/1.0.0": {
+        "dependencies": {
+          "DataStructuresToolkit": "1.0.0"
+        },
+        "runtime": {
+          "DataStructureToolkitCLI.dll": {}
+        }
+      },
+      "DataStructuresToolkit/1.0.0": {
+        "runtime": {
+          "DataStructuresToolkit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructureToolkitCLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStructuresToolkit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
