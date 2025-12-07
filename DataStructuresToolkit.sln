@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresToolkit", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresToolkit.Tests", "DataStructuresToolkit.Tests\DataStructuresToolkit.Tests.csproj", "{F117CB9C-3F28-4B2E-A355-0D136C293700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoHarness", "DemoHarness\DemoHarness.csproj", "{C9D34F29-9CCF-435D-825E-E176488276B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoHarness_Old", "DemoHarness\DemoHarness_Old.csproj", "{C9D34F29-9CCF-435D-825E-E176488276B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureToolkitCLI", "DataStructureToolkitCLI\DataStructureToolkitCLI.csproj", "{195BEF0E-80E9-4E07-AB98-CC5A9F9B6D02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructureToolkit_DemoHarnessCLI", "DataStructureToolkitCLI\DataStructureToolkit_DemoHarnessCLI.csproj", "{195BEF0E-80E9-4E07-AB98-CC5A9F9B6D02}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
