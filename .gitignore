@@ -7,7 +7,7 @@
 /DataStructuresToolkit/obj
 /DataStructuresToolkit.Tests/bin
 /DataStructuresToolkit.Tests/obj
-/DataStructureToolkitCLI/bin/Debug/net8.0
-/DataStructureToolkitCLI/obj
+/DataStructureToolkit_DemoHarnessCLI/bin/Debug/net8.0
+/DataStructureToolkit_DemoHarnessCLI/obj
 /DemoHarness/bin
-/DemoHarness/obj
+/DemoHarness_Old/obj
